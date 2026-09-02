@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kartheekreddy
-- 👀 I’m interested in Ai engineer and HTML AND CSS 
-- 🌱 I’m currently learning Full stack web development 
+- 👀 I’m interested in Ai engineer and Full Stack Developer
+- 🌱 I’m currently learning Python Full stack development 
 - 📫 How to reach me kartheekreddychegireddy@gmail.com
 
 <!---
